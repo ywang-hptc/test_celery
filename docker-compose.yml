@@ -1,6 +1,15 @@
 version: '3.8'
 
 services:
+  flower:
+    image: mher/flower
+    container_name: flower
+    ports:
+      - 5555:5555
+    environment:
+      - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672//
+    depends_on:
+      - rabbitmq
 
   rabbitmq:
     image: rabbitmq:3.9.7-management
@@ -31,7 +40,7 @@ services:
     container_name: celery1
     build:
       context: ./dcelery
-    command: celery --app=dcelery worker -l INFO -Q tasks
+    command: celery --app=dcelery worker --hostname=celeryWorker1@%h -l INFO -Q tasks,dead_letter_queue -E -B
     volumes:
       - ./dcelery:/usr/src/app/
     environment:

@@ -1,0 +1,81 @@
+2025-02-26 10:19:28,222 INFO Watching for file changes with StatReloader
+2025-02-26 10:32:31,026 INFO Watching for file changes with StatReloader
+2025-02-26 10:40:57,808 INFO /usr/src/app/dcelery/celery_tasks/ex5_error_handling_chain.py changed, reloading.
+2025-02-26 10:40:58,904 INFO Watching for file changes with StatReloader
+2025-02-26 10:42:00,776 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2025-02-26 10:51:18,349 INFO Watching for file changes with StatReloader
+2025-02-26 10:55:31,501 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 10:55:32,651 INFO Watching for file changes with StatReloader
+2025-02-26 10:55:57,561 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 10:55:58,549 INFO Watching for file changes with StatReloader
+2025-02-26 10:56:19,369 INFO Watching for file changes with StatReloader
+2025-02-26 10:59:53,419 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 10:59:54,398 INFO Watching for file changes with StatReloader
+2025-02-26 10:59:55,684 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 10:59:56,662 INFO Watching for file changes with StatReloader
+2025-02-26 10:59:57,954 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 10:59:58,918 INFO Watching for file changes with StatReloader
+2025-02-26 11:00:09,414 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2025-02-26 11:00:10,408 INFO Watching for file changes with StatReloader
+2025-02-26 11:00:39,584 INFO Watching for file changes with StatReloader
+2025-02-26 11:01:58,625 INFO Watching for file changes with StatReloader
+2025-02-26 11:04:24,331 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 11:04:25,379 INFO Watching for file changes with StatReloader
+2025-02-26 11:04:47,162 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2025-02-26 11:04:48,197 INFO Watching for file changes with StatReloader
+2025-02-26 11:18:36,997 INFO Watching for file changes with StatReloader
+2025-02-26 11:20:47,676 INFO /usr/src/app/dcelery/celery_tasks/ex7_task_timeouts_revoking.py changed, reloading.
+2025-02-26 11:25:10,781 INFO Watching for file changes with StatReloader
+2025-02-26 11:41:07,085 INFO Watching for file changes with StatReloader
+2025-02-26 11:45:55,071 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:45:56,141 INFO Watching for file changes with StatReloader
+2025-02-26 11:47:47,357 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:47:48,346 INFO Watching for file changes with StatReloader
+2025-02-26 11:47:59,945 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:00,987 INFO Watching for file changes with StatReloader
+2025-02-26 11:48:06,455 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:07,494 INFO Watching for file changes with StatReloader
+2025-02-26 11:48:10,918 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:11,979 INFO Watching for file changes with StatReloader
+2025-02-26 11:48:28,770 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:29,782 INFO Watching for file changes with StatReloader
+2025-02-26 11:48:35,265 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:36,263 INFO Watching for file changes with StatReloader
+2025-02-26 11:48:56,204 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:48:57,170 INFO Watching for file changes with StatReloader
+2025-02-26 11:49:23,153 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:49:24,143 INFO Watching for file changes with StatReloader
+2025-02-26 11:49:29,583 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:49:30,586 INFO Watching for file changes with StatReloader
+2025-02-26 11:49:33,973 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:49:34,986 INFO Watching for file changes with StatReloader
+2025-02-26 11:50:59,767 INFO Watching for file changes with StatReloader
+2025-02-26 11:52:23,100 INFO /usr/src/app/dcelery/celery_tasks/ex8_linking_result_callbacks.py changed, reloading.
+2025-02-26 11:52:24,163 INFO Watching for file changes with StatReloader
+2025-02-26 11:52:54,794 INFO Watching for file changes with StatReloader
+2025-02-26 12:55:14,463 INFO Watching for file changes with StatReloader
+2025-02-27 08:55:35,792 INFO Watching for file changes with StatReloader
+2025-02-27 08:56:18,336 INFO /usr/src/app/dcelery/celery_tasks/ex11_task_scheduling.py changed, reloading.
+2025-02-27 08:56:19,363 INFO Watching for file changes with StatReloader
+2025-02-27 08:56:49,124 INFO Watching for file changes with StatReloader
+2025-02-27 09:10:51,749 INFO Watching for file changes with StatReloader
+2025-02-27 09:15:05,628 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:15:06,700 INFO Watching for file changes with StatReloader
+2025-02-27 09:15:10,084 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:15:11,164 INFO Watching for file changes with StatReloader
+2025-02-27 09:15:13,553 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:15:14,542 INFO Watching for file changes with StatReloader
+2025-02-27 09:15:30,958 INFO Watching for file changes with StatReloader
+2025-02-27 09:15:53,978 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:15:54,987 INFO Watching for file changes with StatReloader
+2025-02-27 09:16:06,729 INFO Watching for file changes with StatReloader
+2025-02-27 09:16:56,435 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:16:57,453 INFO Watching for file changes with StatReloader
+2025-02-27 09:17:01,979 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:17:03,078 INFO Watching for file changes with StatReloader
+2025-02-27 09:17:08,571 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:17:09,581 INFO Watching for file changes with StatReloader
+2025-02-27 09:17:18,219 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2025-02-27 09:17:19,313 INFO Watching for file changes with StatReloader
+2025-02-27 09:17:37,278 INFO Watching for file changes with StatReloader
+2025-02-27 09:44:41,428 INFO Watching for file changes with StatReloader
